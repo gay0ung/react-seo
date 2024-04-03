@@ -12,8 +12,8 @@ function App() {
         {/* open graph tag */}
         <meta property="og:title" content="ga young app" />
         <meta property="og:description" content="ga young app application" />
-        <meta property="og:image" content="./images/KakaoTalk_20240401_211820418.jpg0" />
-        <meta property="og:url" content="" />
+        <meta property="og:image" content="./images/KakaoTalk_20240401_211820418.jpg" />
+        <meta property="og:url" content="https://react-seo-ochre.vercel.app/" />
         <meta property="og:type" content="website" />
 
         {/* twitter tag */}
