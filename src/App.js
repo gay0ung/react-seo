@@ -26,7 +26,7 @@ function App() {
       <div className='card'>
         <h1>안녕하세요</h1>
         <p>제 이름은 "이가영" 입니다.</p>
-        <img src={gaYoung}/>
+        <img src={gaYoung} alt='이가영 이모지'/>
       </div>
     </div>
   );
